@@ -82,4 +82,39 @@ The dashboard allows users to:
    - Created measures using DAX for KPIs.
    - Developed report pages with filters and role-based visuals.
 
+---
+## 📸 Screenshots
+
+| All Rounder |
+| --------------- |
+|![T20 DreamTeam-Dashboard](All_Rounder.png)|
+
+
+| Fast Bolwers |
+| --------------- |
+|![T20 DreamTeam-Dashboard](Fast_Bowlers.png)|
+
+
+| Final Best 11 Players |
+| --------------- |
+|![T20 DreamTeam-Dashboard](Final_11.png)|
+
+
+| Middle Order |
+ | --------------- |
+|![T20 DreamTeam-Dashboard](Middle_Order.png)|
+
+
+| Finisher |
+ | --------------- |
+|![T20 DreamTeam-Dashboard](Finisher.png)|
+
+
+| Openers |
+  | --------------- | 
+|![T20 DreamTeam-Dashboard](Openers.png)|
+
+
+
+
 

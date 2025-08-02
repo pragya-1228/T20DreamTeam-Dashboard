@@ -118,6 +118,12 @@ Built a multi-page interactive dashboard with:
 Packaged everything into a reusable .pbix file for learning, feedback, and personal portfolio use.
 
 ---
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](All_Rounder.png) 
+
+---
+
 
 ## 📈 Learning Outcomes
 

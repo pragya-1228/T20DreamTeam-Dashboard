@@ -19,7 +19,7 @@ The dashboard allows users to:
 - Compare performance across teams and roles.
 - Use slicers to filter by **team**, **player role**, or **match**.
 
-![Dashboard Screenshot](images/dashboard.png) <!-- Replace with your actual image path -->
+
 
 ---
 
